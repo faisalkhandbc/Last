@@ -1,0 +1,2 @@
+Q2) Write Java method to perform following program, test and excute
+1) Write Java code to find factorial of n number.
